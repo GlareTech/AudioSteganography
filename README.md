@@ -9,3 +9,5 @@ Audio Steganography is a python based program for audio steganography. You can h
 This tool require python3
 
 # Installation
+git clone https://github.com/GlareTech/AudioSteganography.git
+
